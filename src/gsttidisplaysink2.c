@@ -28,7 +28,6 @@
 #include <gst/video/video.h>
 #include <string.h>
 #include <gst/gstmarshal.h>
-#include <linux/videodev.h>
 #include <linux/videodev2.h>
 #include <sys/ioctl.h>
 
